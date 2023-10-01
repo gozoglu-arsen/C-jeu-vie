@@ -1,0 +1,6 @@
+Pour changer la taille du jeu (15*10 par défaut) mettre l'abcisse en première argument et l'ordonné en second.
+Exemple : ./executable 9 6
+
+La mise en vie d'une cellule s'effectue par clique gauche sur celle-ci
+La touche 'a' permet de mettre en vie aléatoirement des cases.
+la touche flèche droite permet d'actualiser le tableau.
